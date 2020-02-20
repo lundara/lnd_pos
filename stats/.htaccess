@@ -1,0 +1,7 @@
+AuthName "sys.cbtekno.com statistics"
+AuthType Basic
+AuthUserFile /home/cbtekno/domains/sys.cbtekno.com/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

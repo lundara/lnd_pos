@@ -1,0 +1,1 @@
+[10-Sep-2017 15:58:43 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/b3stkwalitas/public_html/trial/application/controllers/Login.php on line 47
