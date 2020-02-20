@@ -26,7 +26,7 @@ class bank extends CI_Controller {
 	}
 
     function test(){
-        
+        $this->load->view("main");
     }
 
     public function select(){
