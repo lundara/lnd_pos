@@ -25,6 +25,10 @@ class bank extends CI_Controller {
 		
 	}
 
+    function test(){
+        
+    }
+
     public function select(){
         
         $sl = "
